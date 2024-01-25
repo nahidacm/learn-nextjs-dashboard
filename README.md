@@ -1,4 +1,5 @@
 Chapter 2: https://nextjs.org/learn/dashboard-app/css-styling
+Install packages: `npm install`
 
 `npm run dev`
 Starts the development server.
