@@ -1,16 +1,15 @@
-Chapter 2: https://nextjs.org/learn/dashboard-app/css-styling
-Install packages: `npm install`
+Ref: https://nextjs.org/learn/dashboard-app/optimizing-fonts-images
 
-`npm run dev`
-Starts the development server.
+`git clone https://github.com/nahidacm/learn-nextjs-dashboard.git`
+`cd nextjs-dashboard`
+`npm install`
+
+Production:
 
 `npm run build`
-Builds the app for production.
-
 `npm start`
-Runs the built app in production mode.
 
-We suggest that you begin by typing:
+Dev:
 
-`cd nextjs-dashboard`
 `npm run dev`
+Install packages: 
