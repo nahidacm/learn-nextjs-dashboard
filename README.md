@@ -13,3 +13,4 @@ Dev:
 
 `npm run dev`
 Install packages: 
+`npm install`
