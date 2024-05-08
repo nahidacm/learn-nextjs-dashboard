@@ -1,16 +1,20 @@
 Ref: https://nextjs.org/learn/dashboard-app/optimizing-fonts-images
 
-`git clone https://github.com/nahidacm/learn-nextjs-dashboard.git`
-`cd nextjs-dashboard`
-`npm install`
+```bash
+git clone https://github.com/nahidacm/learn-nextjs-dashboard.git
+cd nextjs-dashboard
+npm install
+```
+**Production:**
 
-Production:
+```bash
+npm run build
+npm start
+```
 
-`npm run build`
-`npm start`
+**Dev:**
 
-Dev:
+```bash
+npm run dev
+```
 
-`npm run dev`
-Install packages: 
-`npm install`
