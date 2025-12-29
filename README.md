@@ -9,7 +9,7 @@ npm install
 
 ```bash
 npm run build
-npm start
+npm run start
 ```
 
 **Dev:**
